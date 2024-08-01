@@ -49,7 +49,7 @@
   actual-result: |
     Один из товаров (Sports Sneakers Off White Red) отображется согласно не своей ценновой категории (91.05$)
 
-    - summary: |
+   - summary: |
     Фильтр цены c дробным значением неверно работает
   environment: |
     Opera GX LVL6 (core: 111.0.5168.99)
