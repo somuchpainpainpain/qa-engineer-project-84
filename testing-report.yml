@@ -1,88 +1,88 @@
 - summary: |
     Поиск товара по ключевому слову
-  status: fail
+status: fail
 
 - summary: |
     Поиск товара по не существующему ключевому слову
-  status: pass
+status: pass
 
 - summary: |
     Поиск товара по категории
-  status: pass
+status: pass
 
 - summary: |
     Поиск товара по всем категориям после выбора одной из них
-  status: fail
+status: fail
 
 - summary: |
     Поиск товаров по одному из фильтров
-  status: pass
+status: pass
 
 - summary: |
     Поиск товаров по нескольким фильтрам.
-  status: pass
+status: pass
 
 - summary: |
     Поиск товаров по фильтру цены
-  status: pass
+status: pass
 
 - summary: |
     Поиск товаров по фильтру цены 2
-  status: fail
+status: fail
 
 - summary: |
     Поиск товаров по фильтру цены 3
-  status: fail
+status: fail
 
 - summary: |
     Поиск товаров по фильтру цены 4
-  status: fail
+status: fail
 
 - summary: |
      Поиск товаров по фильтру цены с дробным значением
-  status: fail
+status: fail
 
 - summary: |
     Поиск товаров по фильтру цены с некоректным значением
-  status: pass
+status: pass
 
 - summary: |
     Поиск товаров по фильтру цены с некоректным значением 2
-  status: pass
+status: pass
   
 - summary: |
     Просмотр списка товаров с переходом на следующую страницу
-  status: pass
+status: pass
 
 - summary: |
     Просмотр подробной информации о товаре
-  status: pass
+status: pass
 
 - summary: |
    Добавление товара в корзину
-  status: pass
+status: pass
 
 - summary: |
     Добавление еще одного товара в корзину
-  status: pass
+status: pass
 
 - summary: |
     Добавление двух одинаковых товаров
-  status: pass
+status: pass
 
 - summary: |
     Очищение корзины
-  status: pass
+status: pass
 
 - summary: |
     Удаление одного из товаров из корзины
-  status: pass
+status: pass
 
 - summary: |
     Проверка отображения главной страницы  на мобильном устройстве
-  status: fail
+status: fail
 
 - summary: |
     Проверка  корзины на мобильном устройстве
-  status: fail
+status: fail
 
