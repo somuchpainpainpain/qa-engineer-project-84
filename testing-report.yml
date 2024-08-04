@@ -1,23 +1,23 @@
 ---
 - summary: |
     Поиск товара по ключевому слову
-status: fail
+  status: fail
 
 - summary: |
     Поиск товара по не существующему ключевому слову
-status: pass
+  status: pass
 
 - summary: |
     Поиск товара по категории
-status: pass
+  status: pass
 
 - summary: |
     Поиск товара по всем категориям после выбора одной из них
-status: fail
+  status: fail
 
 - summary: |
     Поиск товаров по одному из фильтров
-status: pass
+  status: pass
 
 - summary: |
     Поиск товаров по нескольким фильтрам.
