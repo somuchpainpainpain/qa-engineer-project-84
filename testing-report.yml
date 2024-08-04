@@ -2,19 +2,19 @@
     Поиск товара по ключевому слову
   status: fail
 
-  - summary: |
+- summary: |
     Поиск товара по не существующему ключевому слову
   status: pass
 
-  - summary: |
+- summary: |
     Поиск товара по категории
   status: pass
 
-  - summary: |
+- summary: |
      Поиск товара по всем категориям после выбора одной из них
   status: fail
 
-  - summary: |
+- summary: |
     Поиск товаров по одному из фильтров
   status: pass
 
