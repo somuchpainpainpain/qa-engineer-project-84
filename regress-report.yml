@@ -78,11 +78,11 @@ test-cases:
 
   - summary: |
       Проверка смены языка с русского на английский и обратно
-   status: fail
+    status: fail
 
   - summary: |
       Провека оформления заказа
-   status: fail
+    status: fail
    
 bugreports:
   - summary: |
